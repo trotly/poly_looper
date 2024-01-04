@@ -2,7 +2,7 @@
 	"name" : "polybuff_looper",
 	"version" : 1,
 	"creationdate" : 3786717001,
-	"modificationdate" : 3786717033,
+	"modificationdate" : 3787167020,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,18 +10,38 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"gen_declick.maxpat" : 			{
+			"polybuff_piano.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
 			}
 ,
-			"polybuff_piano.maxpat" : 			{
+			"gen_declick.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"rec_declick.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"node1_playback.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"node2_record.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"node3_groove.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"node4_masterchans.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
