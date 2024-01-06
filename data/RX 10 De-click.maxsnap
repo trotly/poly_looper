@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "RX 10 De-click",
+	"origin" : "RX 10 De-click.vst3info",
+	"type" : "VST3",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "RX 10 De-click.vst3info",
+		"plugindisplayname" : "RX 10 De-click",
+		"pluginsavedname" : "C74_VST3:/RX 10 De-click",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1 ],
+		"blob" : "565.VMjLgvh....OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9LCMw3RdMACTtvjKt3hKPIUPt3hKQklKt3hYG0VQWkkcRkDSLAEVyXCNugzTNYSPicCaxHGZ0LSPigkbJQFYyImPwoFa1oFQhI2PSUlLvXUPmI0Tl4hdNIFbysRX3sRNqIWVS01Q2gES4zjRuUzJwfmTxYVQzHWbXk2RqsTZ2HUN5oTPj8jRvHkRI4Vdzz1bLMiKPwTbwX2REYyPZgTdxcVMzIGbmcVQwIjb2.CbsUTU4YlLK8VYw4RXu8jLJYGSTo0SZoVbucUVNwlRtoWRNMjQrYiMLcDL4QDbYc0RF8ldpMlXwXkQjMmXqTyPREWdxQWVz8jL3fkR2vjLvfkRr4xQgQGc2QiSmITMZQFYF0jd1kkYHQEanUkRQAER3DDRLMSPoUkPJ0jZqkCZxQybqPGLqcDSVUWTCEURIczX0DmYKoEUY8TPYEVbg4lQMkjUikjMmYVdqfSb1jjUUc0L2YjYZkWc3X2bjEVa0ITaCQiQZ0TTrUVcPgCcqLUNyMSURM1X2o0cBk0SwU0JMsjUhkCU1QzMiI0XZsRYxPVM2c0RVAUajg1M2rVbkgzJHcyaRYiVYMSP0TERjcWMzAEdog2Ztglak4xZ5YiVHwyKIMzasA2atUlaz4COIUDYoQ2Pu4Fcx8FarUlb9.iK77RREQVZzMzatQmbuwFakImO77hUSQ0LPwVcmklaSQWXzUlO.."
+	}
+
+}
